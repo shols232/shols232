@@ -21,3 +21,9 @@ A professional computer scientist in the making, also a part time otaku. I make 
 <a href="https://github.com/shols232/angular-socialmedia-FE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shols232&repo=angular-socialmedia-FE" />
 </a>
+<a href="https://github.com/shols232/mobileforce-HomeTeach">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shols232&repo=mobileforce-HomeTeach" />
+</a>
+<a href="https://github.com/shols232/django-socialmedia-BE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shols232&repo=django-socialmedia-BE" />
+</a>
