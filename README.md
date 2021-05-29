@@ -12,3 +12,12 @@ A professional computer scientist in the making, also a part time otaku. I make 
 
 ![](https://komarev.com/ghpvc/?username=shols232)
 
+<a href="https://github.com/shols232/python-tips-aid">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shols232&repo=python-tips-aid" />
+</a>
+<a href="https://github.com/shols232/news-blog-angular">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shols232&repo=news-blog-angular" />
+</a>
+<a href="https://github.com/shols232/angular-socialmedia-FE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shols232&repo=angular-socialmedia-FE" />
+</a>
