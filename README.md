@@ -6,11 +6,11 @@ A professional computer scientist, backend developer and full-time weeb. I mainl
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinsolaademolatemitope@gmail.com)
 
 
-- 🌱 I’m currently learning a bit of react, and steadily diving into devOps.
+- 🌱 I’m currently diving steadily into more and more AWS cloud services.
 - 👯 I’m looking to collaborate on awesome projects in need of awesome backend infrastructures...
 - 💬 Ask me about anything programming. I'm happy to help!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I survive off of 20% sleep, 30% code, 50% Anime...
+- ⚡ Fun fact: Recently started writing articles on https://levi-writes.hashnode.dev/
 
 ## Languages, Frameworks & Libraries
 ![](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
