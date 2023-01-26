@@ -10,7 +10,7 @@ A professional computer scientist, backend developer and full-time weeb. I mainl
 - 👯 I’m looking to collaborate on awesome projects in need of awesome backend infrastructures...
 - 💬 Ask me about anything programming. I'm happy to help!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Recently started writing articles on https://levi-writes.hashnode.dev/
+- ⚡ Fun fact: Recently started writing articles on https://moreabouttech.com/
 
 ## Languages, Frameworks & Libraries
 ![](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
