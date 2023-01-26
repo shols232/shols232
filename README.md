@@ -1,6 +1,6 @@
 ### Hi there, I'm Akinsola 👋
 
-A professional computer scientist, backend developer and full-time weeb. I mainly develop highly sacalable, cost-efficient backend solutions with django, django rest framework, Celery, Redis, POSTGRESQL, Docker and much more...
+A backend engineer. I develop highly sacalable, cost-efficient backend solutions with django, AWS, POSTGRESQL, Docker and more...
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademola-akinsola-3191571a2/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinsolaademolatemitope@gmail.com)
